@@ -1,0 +1,46 @@
+{
+    "students": [
+        {
+            "firstName": "sivakumar Reddy",
+            "dob": "1991-0-01",
+      
+            "addresses": [
+            {  
+                 "type": "perm",
+                 "flatNumber": 104
+                 "street": "gandhi nagar",
+                 "city": "hyderabad"
+            },
+            {
+                 "type": "current",
+                 "flatNumber": 104
+                 "street": "gandhi nagar",
+                 "city": "hyderabad"
+                }
+            ],
+            "skills": ["java", "devops", "cloud"]
+        },
+        {
+            "firstName": "sivakumar Reddy",
+            "dob": "1991-0-01",
+      
+            "addresses": [
+            {  
+                 "type": "perm",
+                 "flatNumber": 104
+                 "street": "gandhi nagar",
+                 "city": "hyderabad"
+            },
+            {
+                 "type": "current",
+                 "flatNumber": 104
+                 "street": "gandhi nagar",
+                 "city": "hyderabad"
+                }
+            ],
+            "skills": ["java", "devops", "cloud"]
+        }
+    ]
+
+
+}
